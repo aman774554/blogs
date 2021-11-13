@@ -1,0 +1,105 @@
+NAME - Aman Chaturvedi
+ROLL NUMBER - 11801628
+COLLEGE EMAIL ID - aman774554@gmail.com
+WHATSAPP NUMBER - 6264222931
+PHONE CALL NUMBER - 6264222931
+
+1. Android Autofill Framework:-
+
+Open--> Setting--> Autofill --> Click Android Autofill Service
+
+Your setup is completed to check it you can open amazon to confirm it. Onlu condition is usename & password is already saved in Enpass app.
+
+2. Autofill using Accessibility:-
+
+Open--> Setting--> Autofill --> Click Autofill using Accessibility
+
+Your setup is completed now to check it open facebook app. You will see Autofill with Enpass option. Click on it and guess what you successfully login in your facebook. It is super easy.
+
+3. Autofill using Enpass Keyboard:-
+
+Open--> Setting--> Autofill --> Click Enpass Keyboard
+
+To make your life super easy. Enpass keyboard is also available for you. Keyboard will auto-type the fields of the selected item.
+
+#Password Generator:-
+
+No. of words, Pronouncable, Uppercase, Digits, Seprated By
+
+There are many option available so that you can generate a new password according to your need.
+
+I am a pre-final year student of BTech CSE at Lovely Professional University. Skilled in c++, flutter, dart, firebase.
+
+I will be graduating from Lovely Professional University in 2022. I like to tackle complex challenges head-on to deliver technically sound solutions with optimum efficiency. My career objective is to utilise my skills and attributes to the best and channelize them in proper direction for the enhancement in performance of the organisation which would, in turn, result in my development.
+
+If you would like to connect with me, please feel free to connect and drop me a message.
+
+	
+	Press 1:display all teams
+	Press 2:add new player
+	Press 3: to display all players
+	Press 4: to search a particular player
+	Press 5: to modify a particular player
+	Press 6: to delete a player
+	Press 7: to display team owner names
+	Press 8: to display stadium names
+	Press 9: to print the schedule of matches
+
+
+
+npm install --save axios
+npm install react-router-dom
+npm install redux react-redux
+
+npm init -y
+npm i request
+npm i request@2.88.0
+weatherstack
+mapbox
+
+npm init -y
+npm i express@4.16.4
+nodemon src/app.js 
+npm i hbs@4.0.1
+nodemon src/app.js -e js,hbs
+
+npm install express body-parser
+
+www.heroku.com
+heroku -v
+heroku login
+
+git --version
+git init
+git status
+git add .
+git commit -m "Init commit"
+
+#set ssh
+ls -a -l ~/.ssh
+ssh-keygen -t rsa -b 4096 -C "aman774554@gmail.com"
+eval "$(ssh-agent -s)"
+ssh-add #-K# ~/.ssh/id_rsa
+
+#for ssh key
+git remote add origin https://github.com/aman774554/Weather-Website.git
+cat ~/.ssh/id_rsa.pub
+ssh -T git@github.com(To check)
+
+#add code
+git branch -M main
+git push -u origin main
+
+#ADD to heroku
+heroku keys:add
+heroku create my-weather-website
+"start": "node src/app.js",
+const port = process.env.PORT || 3000
+
+git remote
+git push heroku main
+https://aman774554-weather-website.herokuapp.com/
+
+git push
+git push heroku main
+
